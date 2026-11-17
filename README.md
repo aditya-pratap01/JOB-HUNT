@@ -31,7 +31,7 @@ Job-Portal/
 🛠️ Installation & Setup
 1. Clone the Repository
 bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/Job-Portal.git
+git clone https://github.com/aditya-pratap01/Job-Portal.git
 cd Job-Portal
 
 2. Install Dependencies
